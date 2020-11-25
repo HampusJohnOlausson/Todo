@@ -69,7 +69,7 @@ button{
 button:hover{
     color: #ff008c6b;
 }
-.todoContainer{
+.todoDiv{
     display: flex;
     flex-direction: row;
 }
@@ -78,7 +78,7 @@ button:hover{
     display: flex;
     flex-direction: column;
 }
-.paragraph{
+.li{
     color:#ff008e;
     margin: 1rem;
     font-size: 1.6rem;   
